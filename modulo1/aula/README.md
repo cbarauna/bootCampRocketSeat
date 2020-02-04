@@ -6,7 +6,11 @@
 
   <ul>
     <p>
-    Modulo abordando a criação de uma primeira aplicação utilizando NodeJs e Express.
-    Uso do Nodemon e conceitos Query e Route Params, uso de middlewares
+    Modulo abordando a criação de uma aplicação utilizando NodeJs e Express
+      <ul> 
+        <li>  Uso do Nodemon</li>
+        <li>Conceitos de Query e Route Params</li>
+        <li>Uso de middlewares</li>
+      </ul>
     </p>
   </ul>
