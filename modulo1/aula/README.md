@@ -1,4 +1,4 @@
-<h1> Aula do bootCamp RocketSeat</h1>
+<h1> Aula Modulo 1 do bootCamp RocketSeat</h1>
 
 ## Modulo 1
 
